@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/tareynehma/static/css/main.d2601607.css",
+    "main.js": "/tareynehma/static/js/main.a595bbe6.js",
+    "static/media/food4.jpeg": "/tareynehma/static/media/food4.5e026661fb2599d57c06.jpeg",
+    "static/media/food5.jpeg": "/tareynehma/static/media/food5.d852938eaf66597539fd.jpeg",
+    "static/media/event3.jpeg": "/tareynehma/static/media/event3.6c9b67dc7810d27df964.jpeg",
+    "static/media/room3a.jpeg": "/tareynehma/static/media/room3a.ec6ec6e2c7c28fe6e02b.jpeg",
+    "static/media/food3.jpeg": "/tareynehma/static/media/food3.f20df602aaeda35760ff.jpeg",
+    "static/media/room3b.jpeg": "/tareynehma/static/media/room3b.5ea49822549130e28239.jpeg",
+    "static/media/food6.jpeg": "/tareynehma/static/media/food6.36903ab906d3d151bfa9.jpeg",
+    "static/media/event2.jpeg": "/tareynehma/static/media/event2.20c3c9661035d04ffe11.jpeg",
+    "static/media/room1a.jpeg": "/tareynehma/static/media/room1a.deb219d4b0e17f75ad00.jpeg",
+    "static/media/room2a.jpeg": "/tareynehma/static/media/room2a.16b63032ff5997fed4f9.jpeg",
+    "static/media/room2b.jpeg": "/tareynehma/static/media/room2b.4afdbc0ec45b6fb7f0d0.jpeg",
+    "static/media/room1b.jpeg": "/tareynehma/static/media/room1b.5f530786cc0b4f3772cb.jpeg",
+    "static/media/food1.jpeg": "/tareynehma/static/media/food1.771ef7c3779bc2a8aa2f.jpeg",
+    "static/media/place3.jpeg": "/tareynehma/static/media/place3.ab9b94a54159b0e217ad.jpeg",
+    "static/media/place2.jpeg": "/tareynehma/static/media/place2.fd24d339251f07e15797.jpeg",
+    "static/media/room3.jpeg": "/tareynehma/static/media/room3.972370fce5557ff07f72.jpeg",
+    "static/media/event1.jpeg": "/tareynehma/static/media/event1.6c2bb2d598e3de863bfb.jpeg",
+    "static/media/food2.jpeg": "/tareynehma/static/media/food2.aee56de58531fe12d75e.jpeg",
+    "static/media/room2.jpeg": "/tareynehma/static/media/room2.7f38c4678f9ce9f00b2c.jpeg",
+    "static/media/place1.jpeg": "/tareynehma/static/media/place1.f363be334980d3a459c2.jpeg",
+    "static/media/room1.jpeg": "/tareynehma/static/media/room1.691a2e08c689cd7af96a.jpeg",
+    "index.html": "/tareynehma/index.html",
+    "main.d2601607.css.map": "/tareynehma/static/css/main.d2601607.css.map",
+    "main.a595bbe6.js.map": "/tareynehma/static/js/main.a595bbe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2601607.css",
+    "static/js/main.a595bbe6.js"
+  ]
+}
