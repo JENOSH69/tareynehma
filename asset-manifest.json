@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tareynehma/static/css/main.d2601607.css",
-    "main.js": "/tareynehma/static/js/main.a595bbe6.js",
+    "main.js": "/tareynehma/static/js/main.c64290ac.js",
     "static/media/food4.jpeg": "/tareynehma/static/media/food4.5e026661fb2599d57c06.jpeg",
     "static/media/food5.jpeg": "/tareynehma/static/media/food5.d852938eaf66597539fd.jpeg",
     "static/media/event3.jpeg": "/tareynehma/static/media/event3.6c9b67dc7810d27df964.jpeg",
@@ -25,10 +25,10 @@
     "static/media/room1.jpeg": "/tareynehma/static/media/room1.691a2e08c689cd7af96a.jpeg",
     "index.html": "/tareynehma/index.html",
     "main.d2601607.css.map": "/tareynehma/static/css/main.d2601607.css.map",
-    "main.a595bbe6.js.map": "/tareynehma/static/js/main.a595bbe6.js.map"
+    "main.c64290ac.js.map": "/tareynehma/static/js/main.c64290ac.js.map"
   },
   "entrypoints": [
     "static/css/main.d2601607.css",
-    "static/js/main.a595bbe6.js"
+    "static/js/main.c64290ac.js"
   ]
 }
