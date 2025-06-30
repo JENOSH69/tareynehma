@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tareynehma/static/css/main.d2601607.css",
-    "main.js": "/tareynehma/static/js/main.a9eb0198.js",
+    "main.css": "/tareynehma/static/css/main.8d36cfee.css",
+    "main.js": "/tareynehma/static/js/main.542ac8c0.js",
     "static/media/food4.jpeg": "/tareynehma/static/media/food4.5e026661fb2599d57c06.jpeg",
     "static/media/food5.jpeg": "/tareynehma/static/media/food5.d852938eaf66597539fd.jpeg",
     "static/media/event3.jpeg": "/tareynehma/static/media/event3.6c9b67dc7810d27df964.jpeg",
@@ -24,11 +24,11 @@
     "static/media/place1.jpeg": "/tareynehma/static/media/place1.f363be334980d3a459c2.jpeg",
     "static/media/room1.jpeg": "/tareynehma/static/media/room1.691a2e08c689cd7af96a.jpeg",
     "index.html": "/tareynehma/index.html",
-    "main.d2601607.css.map": "/tareynehma/static/css/main.d2601607.css.map",
-    "main.a9eb0198.js.map": "/tareynehma/static/js/main.a9eb0198.js.map"
+    "main.8d36cfee.css.map": "/tareynehma/static/css/main.8d36cfee.css.map",
+    "main.542ac8c0.js.map": "/tareynehma/static/js/main.542ac8c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2601607.css",
-    "static/js/main.a9eb0198.js"
+    "static/css/main.8d36cfee.css",
+    "static/js/main.542ac8c0.js"
   ]
 }
