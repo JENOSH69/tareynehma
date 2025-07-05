@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/tareynehma/static/css/main.4446c8f1.css",
-    "main.js": "/tareynehma/static/js/main.a019893b.js",
+    "main.css": "/tareynehma/static/css/main.a32b68ef.css",
+    "main.js": "/tareynehma/static/js/main.dc924360.js",
     "static/media/Rab.jpeg": "/tareynehma/static/media/Rab.ed7631ed3b475c9b5f4b.jpeg",
+    "static/media/Rac.jpeg": "/tareynehma/static/media/Rac.702ae87ad7e0f84d5949.jpeg",
     "static/media/Ra.jpeg": "/tareynehma/static/media/Ra.405148cd3d188c195aec.jpeg",
-    "static/media/Rb.jpeg": "/tareynehma/static/media/Rb.8716b74fc2b27245d4fd.jpeg",
-    "static/media/Rba.jpeg": "/tareynehma/static/media/Rba.4ccbdc898537002dca0f.jpeg",
+    "static/media/G5.jpeg": "/tareynehma/static/media/G5.dd50b064382306a59f80.jpeg",
+    "static/media/Rcb.jpeg": "/tareynehma/static/media/Rcb.730131050a6bb3cb072c.jpeg",
+    "static/media/Rc.jpeg": "/tareynehma/static/media/Rc.532466730027d7220cbd.jpeg",
+    "static/media/Rb.jpeg": "/tareynehma/static/media/Rb.bed4d1ac9f99f65e6ce6.jpeg",
+    "static/media/Rca.jpeg": "/tareynehma/static/media/Rca.65b66f8788ee5933fab6.jpeg",
+    "static/media/Rbc.jpeg": "/tareynehma/static/media/Rbc.77db613a5589d6b5bbb0.jpeg",
+    "static/media/G4.jpeg": "/tareynehma/static/media/G4.cf4da82ad1dd9ef9bd90.jpeg",
+    "static/media/K1.jpeg": "/tareynehma/static/media/K1.4b8986c39a354dffb153.jpeg",
+    "static/media/G3.jpeg": "/tareynehma/static/media/G3.e74a6e818fd9510a3d2d.jpeg",
+    "static/media/G2.jpeg": "/tareynehma/static/media/G2.5cda3405bffaadc99360.jpeg",
+    "static/media/G1.jpeg": "/tareynehma/static/media/G1.b68c47ccae239e425058.jpeg",
+    "static/media/Rba.jpeg": "/tareynehma/static/media/Rba.0882ae93048bcedabff2.jpeg",
     "static/media/food4.jpeg": "/tareynehma/static/media/food4.5e026661fb2599d57c06.jpeg",
     "static/media/food5.jpeg": "/tareynehma/static/media/food5.d852938eaf66597539fd.jpeg",
-    "static/media/Home1.jpeg": "/tareynehma/static/media/Home1.ae6e7d6365a07fbaf4b3.jpeg",
     "static/media/event3.jpeg": "/tareynehma/static/media/event3.6c9b67dc7810d27df964.jpeg",
-    "static/media/Home2.jpeg": "/tareynehma/static/media/Home2.df687e65390829ad765a.jpeg",
     "static/media/food3.jpeg": "/tareynehma/static/media/food3.f20df602aaeda35760ff.jpeg",
     "static/media/food6.jpeg": "/tareynehma/static/media/food6.36903ab906d3d151bfa9.jpeg",
     "static/media/event2.jpeg": "/tareynehma/static/media/event2.20c3c9661035d04ffe11.jpeg",
@@ -22,11 +31,11 @@
     "static/media/food2.jpeg": "/tareynehma/static/media/food2.aee56de58531fe12d75e.jpeg",
     "static/media/place1.jpeg": "/tareynehma/static/media/place1.f363be334980d3a459c2.jpeg",
     "index.html": "/tareynehma/index.html",
-    "main.4446c8f1.css.map": "/tareynehma/static/css/main.4446c8f1.css.map",
-    "main.a019893b.js.map": "/tareynehma/static/js/main.a019893b.js.map"
+    "main.a32b68ef.css.map": "/tareynehma/static/css/main.a32b68ef.css.map",
+    "main.dc924360.js.map": "/tareynehma/static/js/main.dc924360.js.map"
   },
   "entrypoints": [
-    "static/css/main.4446c8f1.css",
-    "static/js/main.a019893b.js"
+    "static/css/main.a32b68ef.css",
+    "static/js/main.dc924360.js"
   ]
 }
